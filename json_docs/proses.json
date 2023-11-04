@@ -1,0 +1,23 @@
+[
+    {
+      "step": 1,
+      "title": "Order Layanan",
+      "description": "Anda dapat memesan layanan laundry kami melalui website atau aplikasi kami. Pilih layanan yang Anda inginkan dan isi formulir pemesanan."
+    },
+    {
+      "step": 2,
+      "title": "Bebas Penjemputan",
+      "description": "Kami akan menjemput cucian Anda di tempat Anda secara gratis. Anda tidak perlu repot-repot mengantar cucian Anda ke tempat kami."
+    },
+    {
+      "step": 3,
+      "title": "Loundry",
+      "description": "Kami akan mencuci dan menyetrika cucian Anda dengan menggunakan peralatan dan bahan-bahan berkualitas. Cucian Anda akan dikerjakan oleh tim profesional kami yang berpengalaman."
+    },
+    {
+      "step": 4,
+      "title": "Bebas Pengantaran",
+      "description": "Setelah cucian Anda selesai, kami akan mengantarkannya kembali ke tempat Anda secara gratis. Anda tidak perlu repot-repot mengambil cucian Anda di tempat kami."
+    }
+  ]
+  

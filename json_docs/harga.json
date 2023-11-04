@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Basic",
+      "price": 35000,
+      "services": [
+        "Dry Cleaning"
+      ]
+    },
+    {
+      "name": "Standard",
+      "price": 20000,
+      "services": [
+        "Wash & Laundry",
+        "Iron Only"
+      ]
+    },
+    {
+      "name": "Curtain",
+      "price": 60000,
+      "services": [
+        "Curtain Laundry"
+      ]
+    }
+  ]
+  

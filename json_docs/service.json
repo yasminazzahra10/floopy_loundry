@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Dry Cleaning",
+      "image": "https://images.unsplash.com/photo-1551030589-6ef19e7b592d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+      "description": "Dry cleaning adalah metode pencucian pakaian tanpa menggunakan air, melainkan menggunakan cairan kimia khusus. Metode ini cocok untuk membersihkan pakaian yang terbuat dari bahan yang halus dan mudah rusak jika dicuci dengan air, seperti jas, gaun pesta, dan bed cover."
+    },
+    {
+      "id": 2,
+      "title": "Wash & Laundry",
+      "image": "https://images.unsplash.com/photo-1571327220946-5484b5763300?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80",
+      "description": "Wash & laundry adalah metode pencucian pakaian menggunakan air dan detergen. Metode ini cocok untuk membersihkan pakaian sehari-hari yang terbuat dari bahan yang kuat dan tidak mudah rusak, seperti kaos, celana jeans, dan handuk."
+    },
+    {
+      "id": 3,
+      "title": "Curtain Laundry",
+      "image": "https://images.unsplash.com/photo-1593656548352-b8116a529f9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80",
+      "description": "Curtain laundry adalah metode pencucian gorden. Metode ini cocok untuk membersihkan gorden yang berukuran besar dan sulit untuk dicuci sendiri di rumah."
+    },
+    {
+      "id": 4,
+      "title": "Iron Only",
+      "image": "https://images.unsplash.com/photo-1610366329915-20e75460b937?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80",
+      "description": "Iron only adalah metode menyetrika pakaian tanpa mencucinya. Metode ini cocok untuk menyetrika pakaian yang berbahan halus dan mudah kusut, seperti kemeja, blouse, dan celana panjang."
+    }
+  ]
+  
